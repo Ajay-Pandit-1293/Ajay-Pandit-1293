@@ -81,15 +81,13 @@ A desktop-based real-time chat application built from scratch using Java network
 
 ---
 
-## 📊 GitHub Stats
-
+<!--
 ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay-Pandit-1293&show_icons=true&theme=default&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Pandit-1293&layout=compact&theme=default&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ajay-Pandit-1293&theme=default&hide_border=true)
-
----
+-->
 
 ## 📫 Connect with Me
 
